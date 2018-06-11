@@ -2,6 +2,14 @@
 
 [ ![Download](https://api.bintray.com/packages/twcable/aem/Grabbit/images/download.svg) ](https://bintray.com/twcable/aem/Grabbit/_latestVersion)
 
+## 7.1.3
+
+* Bug fixes (Fixes #192)
+
+## 7.1.2
+
+* Bug fixes
+
 ## 7.1.1
 * Bug fixes
 * Documentation changes
